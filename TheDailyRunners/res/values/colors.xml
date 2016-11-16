@@ -1,0 +1,31 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="color_preloader_start">#000000</color>
+    <color name="color_preloader_center">#000000</color>
+    <color name="color_preloader_end">#ff56a9c7</color>
+    <color name="transparent">#00000000 </color>
+    <color name="tabs_background_color">#0E91A1</color>
+    <color name="tabs_letter_color">#FFFFFF</color>
+    <color name="splash_background">#EAEAEA</color>
+    
+    <color name="background_window">#FFE5E5E5</color>
+    <color name="disabled_button_color">#d3d3d3</color>
+    <color name="base_gray">#9a9999</color>
+    <!-- <color name="base_red">#a50e1e</color>  tab blue -> #0857A1  orangenew - > F1693C orange icon -f26922 -->
+    <color name="month_background">#F1693C</color>
+    <color name="month_text_color">#FFFFFF</color>
+    <color name="blue">#0E91A1</color>
+    <color name="base_red_underline">#c05430</color>
+    <color name="base_red">#F1693C</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="sliding_menu_color">#161515</color>
+    <!-- <color name="base_background">#DCDBDB 8E8E93</color> -->
+    <color name="base_background">#ddd</color>
+    <color name="green">#8FCC85</color>
+    <color name="red_button_focused">#d85e36</color>
+    <color name="red_button_pressed">#c05430</color>
+    <color name="letters_gray">#8E8E93</color>
+
+</resources>

@@ -1,0 +1,4 @@
+[07-Oct-2014 22:03:11 America/Denver] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home1/justrunn/public_html/query/configuration.php on line 2
+[07-Oct-2014 22:03:11 America/Denver] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home1/justrunn/public_html/query/configuration.php on line 3
+[07-Oct-2014 22:03:11 America/Denver] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home1/justrunn/public_html/query/configuration.php on line 4
+[07-Oct-2014 22:03:11 America/Denver] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home1/justrunn/public_html/query/configuration.php on line 5

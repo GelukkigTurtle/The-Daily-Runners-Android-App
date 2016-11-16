@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tabs" >
+        <item >Carreras</item>
+        <item >Interes</item>
+        <item >Grupos</item>
+        <item >Galería</item>
+        
+    </string-array>
+    
+     <string-array name="tabs_race" >
+        <item >Banner</item>
+        <item >Información</item>
+    </string-array>
+    
+     <string-array name="menu_items" >
+        <item >Mi Calendario</item>
+        <item >Mi Cuenta</item>
+        <item >Acerca de</item>
+    </string-array>
+    
+    
+    <string-array name="news" >
+        <item >Vídeo: adidas RevEnergy Boost</item>
+        <item >Corre el Maratón de Florencia 2014</item>
+        <item >En busca de la máxima sujeción</item>
+        <item >Entrenate como Rocky Balboa</item>
+        <item >Bolt es el mas rapido del mundo</item>
+    </string-array>
+    
+    <string-array name="groups" >
+        <item >Active Runners</item>
+        <item >Beer Runners</item>
+        <item >TNF Trail Runners</item>
+        <item >Runners El Salvador</item>
+        <item >Santa Ana Runners</item>
+        <item >Addict Runners</item>
+        <item >Movistar Runners</item>
+        <item >ByB Runners</item>
+        <item >Drunners</item>
+        <item >Ahuachapan Runners</item>
+        <item >RSV Runners</item>
+        <item >Legion gatorade</item>
+        <item >Betania</item>
+        <item >Taber Runners</item>
+        <item >Cafeta Runners</item>
+    </string-array>
+    <string-array name="menu_sorting_headers" >
+        <item >Nacionales</item>
+        <item >Internacionales</item>
+     </string-array>
+     <string-array name="menu_sorting_childs" >
+        <item >Calle</item>
+        <item >Trail</item>
+        <item >Media Maratón (21.097 k)</item>
+        <item >Maratón (42.195 k)</item>
+        <item >Ultra Maratón</item>
+        <item >Duatlón</item>
+        <item >Triatlón</item>
+        <item >Todas</item>
+     </string-array>
+</resources>

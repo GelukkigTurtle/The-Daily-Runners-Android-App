@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">The Daily Runners</string><string name="app_version">Version 1.1</string>
+    <string name="app_about">The Daily Runners fue creado con el propósito de contribuir 
+            informando y dando entretenimiento a todas aquellas personas que sienten pasión por correr y a aquellas
+            que están iniciando. El arte de los personajes y cada línea de código de este software esta escrita con la misma pasión
+            que sentimos los corredores</string>
+    
+    <string name="action_settings">Filtrar</string>
+    <string name="action_settings_refresh">Refrescar</string>
+    <string name="app_url">thedailyrunners.com</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string> 
+
+    <!-- race_layout.xml -->
+    <string name="title_day">Día</string>
+    <string name="title_race">Carrera</string>
+    <string name="title_distance">Distancia</string>
+	<string name="race_no_found">Lo sentimos no se encontraron carreras en esta categoría, intenta buscando en otra categoría</string>
+    <!-- race_listview_custom_row.xml -->
+    <string name="atr_hour">Hora</string>
+    <string name="atr_distance">Distancia</string>
+    
+    <string name="title_groups">Grupos</string>
+    <string name="title_calendar">Mi Calendario</string>
+    <string name="title_account">Mi Cuenta</string>
+    <string name="title_about">Acerca de The Daily Runners</string>
+    
+
+    <!-- separator months Tools.java -->
+    <string name="m_january">Enero</string>
+    <string name="m_february">Febrero</string>
+    <string name="m_march">Marzo</string>
+    <string name="m_april">Abril</string>
+    <string name="m_may">Mayo</string>
+    <string name="m_june">Junio</string>
+    <string name="m_july">Julio</string>
+    <string name="m_august">Agosto</string>
+    <string name="m_september">Septiembre</string>
+    <string name="m_october">Octubre</string>
+    <string name="m_november">Noviembre</string>
+    <string name="m_december">Diciembre</string>
+
+    <!-- titles RaceDetailsTabFragment.java -->
+    <string name="title_kit">Kit</string>
+    <string name="title_registration">Inscripción</string>
+    <string name="title_awards">Premios</string>
+    <string name="title_description">Descripción</string>
+    <string name="title_benefit">Benéfica</string>
+    <string name="title_sponsors">Patrocinadores</string>
+    <string name="title_organizer">Organizador</string>
+    <string name="title_category">Categoría</string>
+
+    <!-- race_race_info_front.xml -->
+    <string name="atr_location">Lugar</string>
+    <string name="atr_date">Día</string>
+    <string name="atr_price">Precio</string>
+    <string name="v_loading">Cargando &#8230; </string>
+    <string name="title_activity_group_info_main">GroupInfoMain</string>
+
+    <!-- race_groups_info.xml -->
+    <string name="atr_group_description">Descripción</string>
+    <string name="atr_group_location">Lugar de reunión</string>
+    <string name="atr_group_schedule">Horarios</string>
+    <string name="atr_group_facebook">Facebook</string>
+    <string name="v_no_internet">No se ha podido cargar los datos.Comprueba la conexión</string>
+
+    <!-- Facebook API -->
+    <string name="cancelled">Cancelled</string>
+    <string name="permission_not_granted">Unable to perform selected action because permissions were not granted.</string>
+    <string name="ok">OK</string>
+    <string name="hello_user">Hello %1$s!</string>
+    <string name="success">Success</string>
+    <string name="successfully_posted_post">Successfully posted \'%1$s\'.\nPost ID: %2$s</string>
+    <string name="error">Error</string>
+    <string name="status_update">Updating status for %1$s at %2$s</string>
+    <string name="photo_post">Photo Post</string>
+    <string name="you_picked">You picked:</string>
+    <string name="no_friends_selected">&lt;No friends selected&gt;</string>
+    <string name="no_place_selected">&lt;No place selected&gt;</string>
+    <string name="pick_seattle_place">Pick a Seattle Place</string>
+    <string name="app_id">1496074030638310</string>
+    <string name="exception">Exception: %1$s</string>
+    <string name="action_race">Acciones</string>
+    <string name="action_sort">Mostrar carreras &#8230;</string>
+    <string name="calendar_button">Selecciona una carrera en el calendario</string>
+
+    <!-- GCM Strings -->
+   <string name="google_android_key">AIzaSyDwgFa5WYUF3ogdPD2G2cRpJi33gd7h-Wg</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Push Notifications</string>
+    <string name="error_config">Please set the %1$s constant and recompile the app.</string>
+    <string name="already_registered">Device is already registered on server.</string>
+    <string name="gcm_registered">From GCM: device successfully registered!</string>
+    <string name="gcm_unregistered">From GCM: device successfully unregistered!</string>
+    <string name="gcm_message">From GCM: you got message!</string>
+    <string name="gcm_error">From GCM: error (%1$s).</string>
+    <string name="gcm_recoverable_error">From GCM: recoverable error (%1$s).</string>
+    <string name="gcm_deleted">From GCM: server deleted %1$d pending messages!</string>
+    <string name="server_registering">Trying (attempt %1$d/%2$d) to register device on Demo Server.</string>
+    <string name="server_registered">Just Runners: Welcome!</string>
+    <string name="server_unregistered">From Demo Server: successfully removed device!</string>
+    <string name="server_register_error">Could not register device on Demo Server after %1$d attempts.</string>
+    <string name="server_unregister_error">Could not unregister device on Demo Server (%1$s).</string>
+    <string name="options_register">Register</string>
+    <string name="options_unregister">Unregister</string>
+    <string name="options_clear">Clear</string>
+    <string name="options_exit">Exit</string>
+    
+    <!-- Calendar Actions -->
+   <string name="cal_goin">Se agregó este evento a tu calendario</string>
+   <string name="cal_not_goin">Se eliminó este evento de tu calendario</string>
+   
+    <!-- FB Share Strings -->
+    <string name="fb_name"></string>
+    <string name="fb_caption">Soy de esos locos que corren</string>
+    <string name="fb_desc1">Día: </string>
+    <string name="fb_desc2"> lugar: </string>
+    <string name="fb_desc3"> Hora de Inicio: </string>
+    <string name="fb_link">http://thedailyrunners.com/</string>
+    <string name="fb_status_ok">Publicacion exitosa. Gracias por compartir con The Daily Runners</string>
+    <string name="pan_question">¿Asistirás?</string>
+    <string name="pan_yes">Si</string>
+    <string name="pan_no">No</string>
+    <string name ="pan_not_logged">Debes iniciar sesión con Facebook para poder compartir</string>
+    <string name="fb_share_button">Compartir</string>
+<!-- FB  Strings -->
+    <string name="fb_welcome_male">Bienvenido</string>
+    <string name="fb_welcome_female">Bienvenida</string>
+    <string name="fb_login_msj">Iniciar sesión con Facebook</string>
+    <string name="fb_logout_msj">Cerrar sesión</string>
+    
+    
+    
+    
+    
+    
+
+</resources>

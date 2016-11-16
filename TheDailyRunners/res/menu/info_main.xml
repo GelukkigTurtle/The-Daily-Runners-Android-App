@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+<group
+        android:id="@+id/main_menu_group">
+    <item
+        android:id="@+id/action_sort"
+        android:icon="@drawable/ic_action_overflow"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_settings"/>
+    </group>
+
+</menu>

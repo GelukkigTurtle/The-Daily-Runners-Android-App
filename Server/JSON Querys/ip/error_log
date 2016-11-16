@@ -1,0 +1,8 @@
+[15-Oct-2014 17:01:26 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home1/justrunn/public_html/query/ip/getIP.php on line 7
+[15-Oct-2014 17:02:08 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home1/justrunn/public_html/query/ip/getIP.php on line 7
+[15-Oct-2014 17:02:20 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home1/justrunn/public_html/query/ip/getIP.php on line 7
+[15-Oct-2014 17:09:24 America/Denver] PHP Notice:  Undefined offset: 0 in /home1/justrunn/public_html/query/ip/location.php on line 21
+[15-Oct-2014 17:09:24 America/Denver] PHP Notice:  Trying to get property of non-object in /home1/justrunn/public_html/query/ip/location.php on line 21
+[15-Oct-2014 17:09:24 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/justrunn/public_html/query/ip/location.php on line 21
+[15-Oct-2014 20:45:38 America/Denver] PHP Notice:  Array to string conversion in /home1/justrunn/public_html/query/ip/getIP.php on line 15
+[15-Oct-2014 20:45:38 America/Denver] PHP Notice:  Undefined variable: Array in /home1/justrunn/public_html/query/ip/getIP.php on line 15

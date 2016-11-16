@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@color/base_background"
+    android:scrollbars="vertical">
+
+    <fragment
+        android:id="@+id/map"
+        android:layout_height="0dp"
+		android:layout_weight="0.3" 
+        class="com.google.android.gms.maps.SupportMapFragment" 
+        android:layout_width="match_parent" />
+    
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_height="0dp"
+	    android:layout_weight="0.7" 
+        android:layout_width="match_parent" >
+
+        <LinearLayout
+            android:id="@+id/mother"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingRight="10dp"
+             android:paddingLeft="10dp"
+             android:paddingBottom="10dp"
+            android:paddingTop="10dp" >
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
